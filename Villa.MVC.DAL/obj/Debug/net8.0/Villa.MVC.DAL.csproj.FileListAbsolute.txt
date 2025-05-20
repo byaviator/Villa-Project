@@ -1,0 +1,14 @@
+C:\Users\II Novbe\source\repos\Villa.MVC\Villa.MVC.DAL\bin\Debug\net8.0\Villa.MVC.DAL.deps.json
+C:\Users\II Novbe\source\repos\Villa.MVC\Villa.MVC.DAL\bin\Debug\net8.0\Villa.MVC.DAL.dll
+C:\Users\II Novbe\source\repos\Villa.MVC\Villa.MVC.DAL\bin\Debug\net8.0\Villa.MVC.DAL.pdb
+C:\Users\II Novbe\source\repos\Villa.MVC\Villa.MVC.DAL\obj\Debug\net8.0\Villa.MVC.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\Villa.MVC\Villa.MVC.DAL\obj\Debug\net8.0\Villa.MVC.DAL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\Villa.MVC\Villa.MVC.DAL\obj\Debug\net8.0\Villa.MVC.DAL.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\Villa.MVC\Villa.MVC.DAL\obj\Debug\net8.0\Villa.MVC.DAL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\Villa.MVC\Villa.MVC.DAL\obj\Debug\net8.0\Villa.MVC.DAL.dll
+C:\Users\II Novbe\source\repos\Villa.MVC\Villa.MVC.DAL\obj\Debug\net8.0\refint\Villa.MVC.DAL.dll
+C:\Users\II Novbe\source\repos\Villa.MVC\Villa.MVC.DAL\obj\Debug\net8.0\Villa.MVC.DAL.pdb
+C:\Users\II Novbe\source\repos\Villa.MVC\Villa.MVC.DAL\obj\Debug\net8.0\ref\Villa.MVC.DAL.dll
+C:\Users\II Novbe\source\repos\Villa.MVC\Villa.MVC.DAL\bin\Debug\net8.0\Villa.MVC.DAL.runtimeconfig.json
+C:\Users\II Novbe\source\repos\Villa.MVC\Villa.MVC.DAL\obj\Debug\net8.0\Villa.MVC.DAL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\Villa.MVC\Villa.MVC.DAL\obj\Debug\net8.0\Villa.MVC.DAL.genruntimeconfig.cache

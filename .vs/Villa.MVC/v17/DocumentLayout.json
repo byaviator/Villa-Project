@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9FDB38-5AF5-4C2C-A897-1DF90A3AC5EE}|Villa.MVC.MVC\\Villa.MVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\villa.mvc\\villa.mvc.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9FDB38-5AF5-4C2C-A897-1DF90A3AC5EE}|Villa.MVC.MVC\\Villa.MVC.MVC.csproj|solutionrelative:villa.mvc.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF03A10-466F-4896-99FC-490BFAD28F40}|Villa.MVC.BL\\Villa.MVC.BL.csproj|c:\\users\\ii novbe\\source\\repos\\villa.mvc\\villa.mvc.bl\\services\\villamodelservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF03A10-466F-4896-99FC-490BFAD28F40}|Villa.MVC.BL\\Villa.MVC.BL.csproj|solutionrelative:villa.mvc.bl\\services\\villamodelservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9FDB38-5AF5-4C2C-A897-1DF90A3AC5EE}|Villa.MVC.MVC\\Villa.MVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\villa.mvc\\villa.mvc.mvc\\areas\\admin\\views\\dashboard\\tables.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D9FDB38-5AF5-4C2C-A897-1DF90A3AC5EE}|Villa.MVC.MVC\\Villa.MVC.MVC.csproj|solutionrelative:villa.mvc.mvc\\areas\\admin\\views\\dashboard\\tables.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9FDB38-5AF5-4C2C-A897-1DF90A3AC5EE}|Villa.MVC.MVC\\Villa.MVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\villa.mvc\\villa.mvc.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D9FDB38-5AF5-4C2C-A897-1DF90A3AC5EE}|Villa.MVC.MVC\\Villa.MVC.MVC.csproj|solutionrelative:villa.mvc.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF03A10-466F-4896-99FC-490BFAD28F40}|Villa.MVC.BL\\Villa.MVC.BL.csproj|c:\\users\\ii novbe\\source\\repos\\villa.mvc\\villa.mvc.bl\\viewmodels\\villamodelcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF03A10-466F-4896-99FC-490BFAD28F40}|Villa.MVC.BL\\Villa.MVC.BL.csproj|solutionrelative:villa.mvc.bl\\viewmodels\\villamodelcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5889F79-C9E9-4AE1-B413-2720EF4A15B1}|Villa.MVC.DAL\\Villa.MVC.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\villa.mvc\\villa.mvc.dal\\models\\villamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5889F79-C9E9-4AE1-B413-2720EF4A15B1}|Villa.MVC.DAL\\Villa.MVC.DAL.csproj|solutionrelative:villa.mvc.dal\\models\\villamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9FDB38-5AF5-4C2C-A897-1DF90A3AC5EE}|Villa.MVC.MVC\\Villa.MVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\villa.mvc\\villa.mvc.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D9FDB38-5AF5-4C2C-A897-1DF90A3AC5EE}|Villa.MVC.MVC\\Villa.MVC.MVC.csproj|solutionrelative:villa.mvc.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9FDB38-5AF5-4C2C-A897-1DF90A3AC5EE}|Villa.MVC.MVC\\Villa.MVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\villa.mvc\\villa.mvc.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D9FDB38-5AF5-4C2C-A897-1DF90A3AC5EE}|Villa.MVC.MVC\\Villa.MVC.MVC.csproj|solutionrelative:villa.mvc.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5889F79-C9E9-4AE1-B413-2720EF4A15B1}|Villa.MVC.DAL\\Villa.MVC.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\villa.mvc\\villa.mvc.dal\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5889F79-C9E9-4AE1-B413-2720EF4A15B1}|Villa.MVC.DAL\\Villa.MVC.DAL.csproj|solutionrelative:villa.mvc.dal\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5889F79-C9E9-4AE1-B413-2720EF4A15B1}|Villa.MVC.DAL\\Villa.MVC.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\villa.mvc\\villa.mvc.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5889F79-C9E9-4AE1-B413-2720EF4A15B1}|Villa.MVC.DAL\\Villa.MVC.DAL.csproj|solutionrelative:villa.mvc.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9FDB38-5AF5-4C2C-A897-1DF90A3AC5EE}|Villa.MVC.MVC\\Villa.MVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\villa.mvc\\villa.mvc.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9FDB38-5AF5-4C2C-A897-1DF90A3AC5EE}|Villa.MVC.MVC\\Villa.MVC.MVC.csproj|solutionrelative:villa.mvc.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9FDB38-5AF5-4C2C-A897-1DF90A3AC5EE}|Villa.MVC.MVC\\Villa.MVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\villa.mvc\\villa.mvc.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9FDB38-5AF5-4C2C-A897-1DF90A3AC5EE}|Villa.MVC.MVC\\Villa.MVC.MVC.csproj|solutionrelative:villa.mvc.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9FDB38-5AF5-4C2C-A897-1DF90A3AC5EE}|Villa.MVC.MVC\\Villa.MVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\villa.mvc\\villa.mvc.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8D9FDB38-5AF5-4C2C-A897-1DF90A3AC5EE}|Villa.MVC.MVC\\Villa.MVC.MVC.csproj|solutionrelative:villa.mvc.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.DAL\\Migrations\\20250520152350_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Villa.MVC.DAL\\Migrations\\20250520152350_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9FDB38-5AF5-4C2C-A897-1DF90A3AC5EE}|Villa.MVC.MVC\\Villa.MVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\villa.mvc\\villa.mvc.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D9FDB38-5AF5-4C2C-A897-1DF90A3AC5EE}|Villa.MVC.MVC\\Villa.MVC.MVC.csproj|solutionrelative:villa.mvc.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9FDB38-5AF5-4C2C-A897-1DF90A3AC5EE}|Villa.MVC.MVC\\Villa.MVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\villa.mvc\\villa.mvc.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D9FDB38-5AF5-4C2C-A897-1DF90A3AC5EE}|Villa.MVC.MVC\\Villa.MVC.MVC.csproj|solutionrelative:villa.mvc.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9FDB38-5AF5-4C2C-A897-1DF90A3AC5EE}|Villa.MVC.MVC\\Villa.MVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\villa.mvc\\villa.mvc.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D9FDB38-5AF5-4C2C-A897-1DF90A3AC5EE}|Villa.MVC.MVC\\Villa.MVC.MVC.csproj|solutionrelative:villa.mvc.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9FDB38-5AF5-4C2C-A897-1DF90A3AC5EE}|Villa.MVC.MVC\\Villa.MVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\villa.mvc\\villa.mvc.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D9FDB38-5AF5-4C2C-A897-1DF90A3AC5EE}|Villa.MVC.MVC\\Villa.MVC.MVC.csproj|solutionrelative:villa.mvc.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9FDB38-5AF5-4C2C-A897-1DF90A3AC5EE}|Villa.MVC.MVC\\Villa.MVC.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\villa.mvc\\villa.mvc.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D9FDB38-5AF5-4C2C-A897-1DF90A3AC5EE}|Villa.MVC.MVC\\Villa.MVC.MVC.csproj|solutionrelative:villa.mvc.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VillaModelServices.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.BL\\Services\\VillaModelServices.cs",
+              "RelativeDocumentMoniker": "Villa.MVC.BL\\Services\\VillaModelServices.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.BL\\Services\\VillaModelServices.cs",
+              "RelativeToolTip": "Villa.MVC.BL\\Services\\VillaModelServices.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:12:58.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tables.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.MVC\\Areas\\Admin\\Views\\Dashboard\\Tables.cshtml",
+              "RelativeDocumentMoniker": "Villa.MVC.MVC\\Areas\\Admin\\Views\\Dashboard\\Tables.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.MVC\\Areas\\Admin\\Views\\Dashboard\\Tables.cshtml",
+              "RelativeToolTip": "Villa.MVC.MVC\\Areas\\Admin\\Views\\Dashboard\\Tables.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T15:56:00.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VillaModelCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.BL\\ViewModels\\VillaModelCreateVM.cs",
+              "RelativeDocumentMoniker": "Villa.MVC.BL\\ViewModels\\VillaModelCreateVM.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.BL\\ViewModels\\VillaModelCreateVM.cs",
+              "RelativeToolTip": "Villa.MVC.BL\\ViewModels\\VillaModelCreateVM.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:43:35.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250520152350_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.DAL\\Migrations\\20250520152350_Initial.cs",
+              "RelativeDocumentMoniker": "Villa.MVC.DAL\\Migrations\\20250520152350_Initial.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.DAL\\Migrations\\20250520152350_Initial.cs",
+              "RelativeToolTip": "Villa.MVC.DAL\\Migrations\\20250520152350_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:23:50.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.DAL\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "Villa.MVC.DAL\\Models\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.DAL\\Models\\BaseModel.cs",
+              "RelativeToolTip": "Villa.MVC.DAL\\Models\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:17:34.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Villa.MVC.DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Villa.MVC.DAL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:46:47.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Villa.MVC.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Villa.MVC.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T14:27:03.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Villa.MVC.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Villa.MVC.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T14:26:48.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Villa.MVC.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Villa.MVC.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAAANUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T14:26:18.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Villa.MVC.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Villa.MVC.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAAADkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T14:25:50.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Villa.MVC.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Villa.MVC.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:25:36.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.MVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Villa.MVC.MVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.MVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Villa.MVC.MVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-20T14:24:08.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Villa.MVC.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.MVC\\Program.cs",
+              "RelativeToolTip": "Villa.MVC.MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:09:35.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Villa.MVC.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Villa.MVC.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T13:57:15.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Villa.MVC.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Villa.MVC.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T13:57:00.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Villa.MVC.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Villa.MVC.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T13:56:20.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Villa.MVC.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Villa.MVC.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T13:55:43.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Villa.MVC.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Villa.MVC.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:55:35.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VillaModel.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.DAL\\Models\\VillaModel.cs",
+              "RelativeDocumentMoniker": "Villa.MVC.DAL\\Models\\VillaModel.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Villa.MVC\\Villa.MVC.DAL\\Models\\VillaModel.cs",
+              "RelativeToolTip": "Villa.MVC.DAL\\Models\\VillaModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:53:12.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
